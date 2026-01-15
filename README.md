@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=kihaas&show_icons=true&theme=radical) | ![Top Langs Pie](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kihaas&theme=radical) |
-|---|---|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihaas&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kihaas&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kihaas&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kihaas&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kihaas&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kihaas&theme=radical)
 
