@@ -1,17 +1,11 @@
 ## Hi there 👋
 
-## 📈 GitHub Analytics
+## 🎯 Статистика
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kihaas&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihaas&layout=compact&hide_border=true&theme=github_dark" />
-</p>
+| | |
+|:---:|:---:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=kihaas&show_icons=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kihaas&layout=compact&theme=dark) |
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=kihaas&theme=dark) | ![Trophies](https://github-profile-trophy.vercel.app/?username=kihaas&theme=onedark&no-frame=true&row=2&column=4) |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kihaas&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kihaas&theme=discord&no-frame=true&column=7" />
-</p>
-
+### 📊 Детальная статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kihaas&theme=vue)
